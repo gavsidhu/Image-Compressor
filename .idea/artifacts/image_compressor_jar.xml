@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="image-compressor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/image_compressor_jar</output-path>
+    <root id="archive" name="image-compressor.jar">
+      <element id="module-output" name="image-compressor" />
+    </root>
+  </artifact>
+</component>
